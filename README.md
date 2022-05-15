@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-<center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true" width=00 />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=300 />
-</center>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark&#pic_center)
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&&theme=dark" width=500 height=300><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=500 height=300/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=1000 height=400 alt="">
+</div>
 
 <!--
 **Zhang-SDU/Zhang-SDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
