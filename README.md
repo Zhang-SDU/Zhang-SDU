@@ -1,6 +1,6 @@
 ### Hi Guys👋
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width="400px" height="200px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width="400px" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width="50%" height="20%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width="50%" height="20%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=800>
 </div>
 
