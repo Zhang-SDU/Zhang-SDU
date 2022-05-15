@@ -1,13 +1,8 @@
-### Hi there 👋
+### Hi Guys👋
 <div align=center>
-<img src="https://github.com/Zhang-SDU/cst-project/blob/main/readme.gif">
+<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width=400><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=400>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=800 height=350>
 </div>
-<!--
-<div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width=450 height=350><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=400 height=350/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=800 height=400>
-</div>
--->
 
 <!--
 **Zhang-SDU/Zhang-SDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
