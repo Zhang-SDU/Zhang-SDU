@@ -3,8 +3,8 @@
 <div align="left"> <img height="137px" src=https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true> </div>
 <div align="right"><img height="137px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&layout=compact> </div>
 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&border=0> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&border=0> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true border=0> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark border=0> </div>
 <!--
 **Zhang-SDU/Zhang-SDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
