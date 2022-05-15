@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true" width="400" height="300"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width="400" height="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true" width="300" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width="300" />
 </center>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark&#pic_center)](https://git.io/streak-stats)
