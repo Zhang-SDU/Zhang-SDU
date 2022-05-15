@@ -1,4 +1,4 @@
-### Hi Guys👋
+### Hey Guys👋
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width="400"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width="400">
 </div>
