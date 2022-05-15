@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true&layout=compact)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true&layout=compact#pic_left)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&layout=compact#pic_right)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark&layout=content)](https://git.io/streak-stats)
 
 <!--
