@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Zhang-SDU)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU)
 
 <!--
 **Zhang-SDU/Zhang-SDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
