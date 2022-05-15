@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Zhang-SDU/Zhang-SDU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
