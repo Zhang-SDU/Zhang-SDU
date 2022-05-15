@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align=center>
-<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&&theme=dark" width=350 height=200><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=350 height=200/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=700 height=300 alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=Zhang-SDU&show_icons=true&theme=dark" width=450 height=350><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhang-SDU&theme=dark" width=400 height=350/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhang-SDU&theme=dark" width=800 height=400>
 </div>
 
 <!--
